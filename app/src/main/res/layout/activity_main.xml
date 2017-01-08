@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.foo.jigsawpuzzle.MainActivity">
+
+
+    <Button
+        android:id="@+id/btn_main_restart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="restart"/>
+
+    <TextView
+        android:id="@+id/tv_main_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="score:"/>
+
+    <TextView
+        android:id="@+id/tv_main_step"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="step:"/>
+
+    <TextView
+        android:id="@+id/tv_main_answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="answer:"/>
+
+    <GridLayout
+        android:id="@+id/gl_main_game"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:columnCount="5"
+        android:rowCount="3"/>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_a2daae4746be8d5079d88e59034066e25ef56451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_a4c2d249e70022e5fa8800a3653f74c1ae82bd7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_9a525149e6ae033f456d7262ef4600b10186723e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_2b926c23b4b1374e3ff16ac2a987d823130506af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_26ea3576ff06db7acdf709c25262d3f808f878fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_b8f7a2f737c8c22deeb6d6d19eb1a2bd517838a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Major\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Major\Desktop\JigsawPuzzle\app\build\intermediates\pre-dexed\debug\gson-2.7_529cecf5f0d4e4864d37e7157bc5598597394be3.jar" />
+    </item>
+
+</items>
